@@ -27,5 +27,5 @@ cd workspace/modulo_3
 
 3. Criar servidor de aplicação:
 ```sh
-rails new NOME_DA_APLICAÇÃO
+rails new NOME_DA_APLICAÇÃO --skip-git
 ```
